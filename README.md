@@ -1,5 +1,5 @@
 # Street-Fighter
-This is a game consisting of Javascript, CSS and HTML. It contains button functionality and a scoring system that determines a winner and a loser.
+This is a game consisting of Javascript, CSS and HTML. It contains button functionality and a scoring system that determines a winner and a loser. Buttons Q and P will be used to attack the points of the opponent.
 
 In summary,
 this project helped me develop a strong foundation in data structures and algorithms, which are essential skills for any computer scientist or software engineer. They also provided practical experience in designing and implementing algorithms and data structures and in analyzing their performance.
