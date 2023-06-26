@@ -5,6 +5,7 @@ let p2NameDiv = document.getElementById('p2Name')
 let p1HealthDiv = document.getElementById('p1Health')
 let p2HealthDiv = document.getElementById('p2Health')
 
+
 const updateGame = (p1,p2,gameState) => {
   p1NameDiv.innerText = p1.name
   p2NameDiv.innerText = p2.name
